@@ -5,6 +5,12 @@ body {
   margin: 0;
 }
 
+nav a {
+  padding: 10px;
+  background-color: gray;
+
+}
+
 div {
   float: left;
   background-color: red;
